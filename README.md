@@ -1,14 +1,14 @@
 # sql_challenge
 ## The task is to do a SQL analysis about people whom the company employed during the 1980s and 1990s.
 
-### Data Modelling
-ERD table was created to sketch tables’ relationship with primary keys, foreign keys, and other constraints. It shows in the screenshot QuickDBD-sql_challenge.png
+### Data Modelling - 
+ERD table was created to sketch tables’ relationship with primary keys, foreign keys, and other constraints. It shows in the screenshot ERD.png
 
 ### Data Engineering
-Create a table schema for each of the six CSV files. The SQL file is saved as Table_Schemata_SQL.sql. The table schema specifies the data types, primary keys, foreign keys, and other constraints.
+Create a table schema for each of the six CSV files. The SQL file is saved as 'EmployeeSQL\Table_Schemata_SQL.sql'. The table schema specifies the data types, primary keys, foreign keys, and other constraints.
 
 ### Data Analysis
-Create a Queries_SQL.sql file of queries with queries for the following 8 questions. 
+Create a 'EmployeeSQL\Queries_SQL.sql' file of queries with queries for the following 8 questions. 
 
 •	Q1_Emp_Salary_List.csv
 List the employee number, last name, first name, sex, and salary of each employee

@@ -1,6 +1,5 @@
 -- Create tables, import tables and set primary and foreign keys
 -- Table: public.departments
-
 DROP TABLE IF EXISTS public.departments;
 
 CREATE TABLE public.departments

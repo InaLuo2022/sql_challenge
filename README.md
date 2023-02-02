@@ -9,6 +9,7 @@ Create a table schema for each of the six CSV files. The SQL file is saved as Ta
 
 ### Data Analysis
 Create a Queries_SQL.sql file of queries with queries for the following 8 questions. 
+
 •	Q1_Emp_Salary_List.csv
 List the employee number, last name, first name, sex, and salary of each employee
 

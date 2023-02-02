@@ -1,7 +1,7 @@
 # sql_challenge
 ## The task is to do a SQL analysis about people whom the company employed during the 1980s and 1990s.
 
-### Data Modelling - 
+### Data Modelling 
 ERD table was created to sketch tables’ relationship with primary keys, foreign keys, and other constraints. It shows in the screenshot ERD.png
 
 ### Data Engineering
